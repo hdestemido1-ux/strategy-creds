@@ -1,4 +1,14 @@
-{
-  "email": "heitor-freitas@hotmail.com",
-  "password": "0314hrffrh41303"
+ {
+  "estrategia": {
+    "email": ""heitor-freitas@hotmail.com",
+    "password": "0314hrffrh41303"
+  },
+  "focus": {
+    "email": "alberiobero030@gmail.com",
+    "password": "concursos2022"
+  },
+  "tec": {
+    "email": "alberio030@gmail.com",
+    "password": "policia007"
+  }
 }
